@@ -9,7 +9,6 @@
 	 * header - Defines some CSS selector that is the identifier for header items in the list (defaults '.header')
 	 * zindex - A customizable z-index to force the overlap of scrolled headers (defaults 1000)
 	 */
-     asdfsadf
 	var settings = {
 		'header': '.header',
 		'zindex' : 1000
